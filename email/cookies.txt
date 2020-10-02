@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+login.microsoftonline.com	TRUE	/	FALSE	1999999999	buid	0.AAAAMe_N-B6jSkuT5F9XHpElWrmnRUNjmhBJpCY1NjIB1QMBAAA.AQABAAEAAAAGV_bv21oQQ4ROqh0_1-tAAQUbfmBpE4rKwvRfeFK4qD8_l3e4po1ifp9sx3PUQFd9Hbuvts23cAuOupJOMhx_Abc_1YsegLDgCMXN7Vduc95dOtBAfUzMxSZgNrlwd5YgAA
+login.microsoftonline.com	TRUE	/	FALSE	1999999999	fpc	Ao2J0DLHpt5LqinpGhXR4iDsYIXWAQAAAGnn-9YOAAAA
+.login.microsoftonline.com	TRUE	/	FALSE	1999999999	esctx	AQABAAAAAAAGV_bv21oQQ4ROqh0_1-tA5xs0DSry2_5YBZP_c0WmHLf19lptCU7et0uyc6P44uhjQzUoeQn0aEdAGi9Mzyq6tmzJHz_Jl2DYyvUTL6qzkn09UcWgrRL8hL1YzO-kvqyhOKLMTkU6jfpPEnwqCIyLYhdx9QAAivNyXoDTtcezkKtpRkXU_ixUOuB1BIHInNwgAA
+login.microsoftonline.com	TRUE	/	FALSE	1999999999	SameSite	None
+login.microsoftonline.com	TRUE	/	FALSE	1999999999	stsservicecookie	ests
+login.microsoftonline.com	TRUE	/	FALSE	1999999999	x-ms-gateway-slice	prod
+login.microsoftonline.com	TRUE	/	FALSE	1999999999	samesite	none
+
